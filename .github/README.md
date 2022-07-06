@@ -1,4 +1,4 @@
-<img src="https://telegra.ph/file/c0e014ff34f34d1056627.png" align="right" width="200" height="200"/>
+<img src="https://telegra.ph/file/64195b01937bc25b5c5f5.jpg" align="right" width="200" height="200"/>
 
 # Yukki Music Bot <img src="https://img.shields.io/github/v/release/TeamYukki/YukkiMusicBot?color=black&logo=github&logoColor=black&style=social" alt="RELEASE">
 
@@ -22,7 +22,7 @@ We have temporarily disabled the deployment for  all these cloud service platfor
 
 <p>
 <a href="https://replit.com/@NotReallyShikhar/Yukki-Music-String-Gen"><img src="https://img.shields.io/badge/Generate%20On%20Repl-blueviolet?style=for-the-badge&logo=appveyor" width="200""/></a>
-<a href="https://t.me/YukkiStringBot"><img src="https://img.shields.io/badge/TG%20String%20Gen%20Bot-blueviolet?style=for-the-badge&logo=appveyor" width="200""/></a>
+<a href="https://t.me/jehrilla_support"><img src="https://img.shields.io/badge/TG%20String%20Gen%20Bot-blueviolet?style=for-the-badge&logo=appveyor" width="200""/></a>
 </p>
 
 ## 🖇 VPS Deployment
